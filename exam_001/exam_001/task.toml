@@ -1,0 +1,16 @@
+[task]
+version = "1.0"
+
+[agent]
+timeout_sec = 300
+
+[environment]
+timeout_sec = 600
+
+[verifier]
+timeout_sec = 120
+
+[metadata]
+difficulty = "easy"
+category = "terminal"
+tags = ["shell", "log-analysis", "text-processing"]
