@@ -1,4 +1,5 @@
 [task]
+name = "log-analysis"
 version = "1.0"
 
 [agent]
